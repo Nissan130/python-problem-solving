@@ -1,1 +1,1 @@
-In this notebook, I have solved simple and complex logic problem using ** python ** so that i can increase my problem solving skills and cam become experts in python
+In this notebook, I have solved simple and complex logic problem using **python** so that i can increase my problem solving skills and become experts in python
